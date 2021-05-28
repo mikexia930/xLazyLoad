@@ -1,11 +1,20 @@
 {
-  "name": "v1.0.0",
-  "version": "0.1.0",
-  "private": true,
+  "name": "x-lazy-load-vue",
+  "description": "Vue component with lazy-load",
+  "keywords": [
+    "vue",
+    "component",
+    "lazy load",
+    "intersection observe"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "lib/xlazyload.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "lib": "vue-cli-service build --target lib --name xlazyload --dest lib packages/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
