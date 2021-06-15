@@ -1,7 +1,7 @@
 # x-lazy-load-vue
 
 ## 版本
-- v1.0.2
+- v1.0.3
 
 ## 基于
 - vue2
@@ -16,7 +16,7 @@ npm install x-lazy-load-vue
 ## 使用
 **在main.js中引入**
 ````
-import XLazyLoad from 'x-lazy-load';
+import XLazyLoad from 'x-lazy-load-vue';
 
 Vue.use(XLazyLoad)
 ````
