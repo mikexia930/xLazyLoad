@@ -7,7 +7,7 @@
     "lazy load",
     "intersection observe"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "lib/xlazyload.umd.js",
   "scripts": {
