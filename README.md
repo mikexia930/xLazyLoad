@@ -1,7 +1,7 @@
 # x-lazy-load-vue
 
 ## 版本
-- v1.0.0
+- v1.0.1
 
 ## 基于
 - vue2
@@ -10,7 +10,7 @@
 ## 安装
 
 ````
-npm install xLazyLoad
+npm install x-lazy-load-vue
 ````
 
 ## 使用
